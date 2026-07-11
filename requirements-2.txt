@@ -1,5 +1,5 @@
-streamlit
-opencv-python-headless
-pillow
+streamlit==1.59.1
+opencv-python-headless==4.13.0.92
 numpy
-matplotlib
+pandas
+Pillow
